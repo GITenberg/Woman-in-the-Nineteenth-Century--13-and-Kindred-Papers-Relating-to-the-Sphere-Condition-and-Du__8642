@@ -1,0 +1,59 @@
+_repo: Woman-in-the-Nineteenth-Century--13-and-Kindred-Papers-Relating-to-the-Sphere-Condition-and-Du__8642
+_version: 0.0.1
+alternative_title: Woman in the 19th Century
+contributor:
+  author_of_introduction:
+    agent_name: Greeley, Horace
+    aliases:
+    - Gardwell, Godek
+    - Goodwell, Godek
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '26821'
+    url: http://www.gutenberg.org/2009/agents/26821
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Greeley
+creator:
+  author:
+    agent_name: Fuller, Margaret
+    aliases:
+    - Fuller, S. Margaret (Sarah Margaret)
+    - Ossoli, Sara Margarita
+    - Ossoli, Margaret Fuller
+    - Fuller, Sara Margarita
+    birthdate: 1810
+    deathdate: 1850
+    gutenberg_agent_id: '2829'
+    url: http://www.gutenberg.org/2009/agents/2829
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Fuller
+  editor:
+    agent_name: Fuller, Arthur B. (Arthur Buckminster)
+    aliases:
+    - Fuller, A. Buckminster (Arthur Buckminster)
+    - Fuller, Arthur Buckminster
+    birthdate: 1822
+    deathdate: 1862
+    gutenberg_agent_id: '6625'
+    url: http://www.gutenberg.org/2009/agents/6625
+description: 'Contains facsimile reprint of the original ed. of 1855 [Boston [Mass.];
+  Cleveland [Ohio]: Jewett; New York: Sheldon, Lamport].'
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+- !lcsh 'Women -- History -- Modern period, 1600-'
+- !lcsh 'Women''s rights'
+- !lcsh 'Man-woman relationships'
+- !lcsh 'Feminism'
+- !lcsh 'Social history -- 19th century'
+- GITenberg
+title: "Woman in the Nineteenth Century\r\nand Kindred Papers Relating to the Sphere,\
+  \ Condition and Duties, of Woman."
+url: http://www.gutenberg.org/ebooks/8642
